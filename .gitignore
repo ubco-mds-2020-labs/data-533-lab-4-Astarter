@@ -1,0 +1,8 @@
+
+*.iml
+*.pyc
+*.xml
+*.ipynb
+
+*.DS_Store
+*-checkpoint.py
